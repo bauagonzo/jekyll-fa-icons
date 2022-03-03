@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{jekyll plugin to easily display FontAwesome icons}
   spec.description   = %q{jekyll plugin to generate html snippets for embedding fa-icons}
-  spec.homepage      = "https://github.com/coulof/jekyll-fa-icons"
+  spec.homepage      = "https://github.com/bauagonzo/jekyll-fa-icons"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
